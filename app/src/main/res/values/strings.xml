@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">StockAppTest</string>
+
+    <string name="code_string">股票代號</string>
+
+    <string name="name_string">股票名稱</string>
+    <string name="trade_volume_string">成交股數</string>
+    <string name="trade_value_string">成交金額</string>
+    <string name="opening_price_string">開盤價</string>
+    <string name="highest_price_string">最高價</string>
+    <string name="lowest_price_string">最低價</string>
+    <string name="closing_price_string">收盤價</string>
+    <string name="change_string">漲跌價差</string>
+    <string name="transaction_string">成交筆數</string>
+    <string name="monthly_ave_price_string">月平均價</string>
+
+    <string name="increase_string">依股票代號升序</string>
+    <string name="decrease_string">依股票代號降序</string>
+
+    <string name="peratio_string">本益比</string>
+    <string name="dividendyield_string">殖利率(%)</string>
+    <string name="pbratio_string">股價淨值比</string>
+
+</resources>
